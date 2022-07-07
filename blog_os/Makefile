@@ -1,4 +1,7 @@
-.PHONY: build
+.PHONY: setup
 
-build:
-	cargo build --target thumbv7em-none-eabihf
+setup:
+	rustup update
+	rustup component add rust-src
+	rustup component add llvm-tools-preview
+	cargo install bootimage

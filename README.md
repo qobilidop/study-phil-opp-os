@@ -7,7 +7,7 @@ My learning approach is to follow along the blog posts and write the code from s
 
 - Bare Bones
   - [x] A Freestanding Rust Binary
-  - [ ] A Minimal Rust Kernel
+  - [x] A Minimal Rust Kernel
   - [ ] VGA Text Mode
   - [ ] Testing
 - Interrupts
