@@ -12,7 +12,7 @@ My learning approach is to follow along the blog posts and write the code from s
   - [x] Testing
 - Interrupts
   - [x] CPU Exceptions
-  - [ ] Double Faults
+  - [x] Double Faults
   - [ ] Hardware Interrupts
 - Memory Management
   - [ ] Introduction to Paging
