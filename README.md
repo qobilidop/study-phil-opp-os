@@ -9,9 +9,9 @@ My learning approach is to follow along the blog posts and write the code from s
   - [x] A Freestanding Rust Binary
   - [x] A Minimal Rust Kernel
   - [x] VGA Text Mode
-  - [ ] Testing
+  - [x] Testing
 - Interrupts
-  - [ ] CPU Exceptions
+  - [x] CPU Exceptions
   - [ ] Double Faults
   - [ ] Hardware Interrupts
 - Memory Management
